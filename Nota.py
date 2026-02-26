@@ -35,8 +35,6 @@ def reporte(estudiantes):
         print(f"Estudiante: {est["Nombre"]} su estado es: {estado}")
 
 reporte(estudiante)
->>>>>>> reporte
-
 
 def calcular_promedio(listaNotas):
     if len(listaNotas) == 0:
