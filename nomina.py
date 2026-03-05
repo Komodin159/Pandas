@@ -1,8 +1,8 @@
 import os
 
-    TOPE_AUXILIO = 2000000
-    VALOR_AUXILIO = 160000
-    DEDUCCIONES = 0.08 #8%
+TOPE_AUXILIO = 2000000
+VALOR_AUXILIO = 160000
+DEDUCCIONES = 0.08 #8%
 
 
 def limpiar_pantalla():
