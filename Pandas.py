@@ -42,3 +42,47 @@ print(lista)
 print("==== MODIFICACIONDE DATAGRAME ====")
 resumen["Correo"] = ["teste@cesde.net", "prueba@teste.com", None, None]
 print(resumen)
+print(df)
+
+data = pd.read_csv("MOCK_DATA.csv")
+print(data.head())
+print(data.tail())
+print(data.info())
+
+data ["Precio_Total"] = data["Cantidad"] * data["Precio_Unitario"]
+print(data[["Precio_Total"]])
+
+promedio_Total = data["Precio_Total"].mean()
+suma_Total= data["Precio_Total"].sum()
+
+print(f"El promedio es: {promedio_Total:.2f}")
+print(f"La suma de precios es: {suma_Total:.2f}")
+data = pd.read_csv("MOCK_DATA (1).csv")
+print(data.info())
+
+print(data.isna())
+
+cant_nulos = data.isna().sum()
+print(cant_nulos)
+
+print("===========================")
+cant_nulos = data.duplicated().sum()
+print(cant_nulos)
+
+print("===========================")
+copiaDecopia = data.dropna()
+print(copiaDecopia.info())
+print("===========================")
+data ["Vendedor"] = data["Vendedor"].fillna("N/A")
+print(data["Vendedor"])
+
+print("===========================")
+filtroCiudades = data[data["Ciudad"] == "New York City"]
+print(filtroCiudades)
+
+print("===========================")
+data["Producto"] = data["Producto"].str.upper()
+print(data["Producto"])
+
+data2 = data[["Producto", "Cantidad", "Precio_Unitario"]]
+print(data2)
