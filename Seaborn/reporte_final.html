@@ -1,0 +1,51 @@
+ 
+<!DOCTYPE html> 
+<html> 
+<head> 
+ <title>Reporte de Ventas</title> 
+ <style> 
+ body { font-family: Arial, sans-serif; margin: 40px; } 
+ h1 { color: #2C3E50; } 
+ .table { width: 50%; border-collapse: collapse; margin-top: 20px; } 
+ .table th, .table td { border: 1px solid #ddd; padding: 8px; text-align: left; } 
+ .table th { background-color: #4CAF50; color: white; } 
+ </style> 
+</head> 
+<body> 
+ <h1>Reporte Ejecutivo de Ventas 2026</h1> 
+ <p>A continuación se presenta el rendimiento del equipo comercial:</p> 
+
+ <!-- Aquí inyectamos la variable de Python que tiene la tabla --> 
+ <table border="1" class="dataframe table table-striped">
+  <thead>
+    <tr style="text-align: right;">
+      <th>vendedor</th>
+      <th>Total_Ingreso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Andrés</td>
+      <td>62620.03</td>
+    </tr>
+    <tr>
+      <td>Elena</td>
+      <td>55430.49</td>
+    </tr>
+    <tr>
+      <td>Carlos</td>
+      <td>54511.83</td>
+    </tr>
+    <tr>
+      <td>Diana</td>
+      <td>38038.07</td>
+    </tr>
+    <tr>
+      <td>Beatriz</td>
+      <td>35954.60</td>
+    </tr>
+  </tbody>
+</table> 
+
+</body> 
+</html> 
