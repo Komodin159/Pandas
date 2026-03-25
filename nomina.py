@@ -34,7 +34,7 @@ def calcular_nomina(lista_empleados):
         print("Nombre empleado %s y sueldo %d con un auxilio de: %d" % (emp["Nombre"], sueldo_proporcional, auxilio))
 
     print("-" * 75)
-    print(f"Total empleados: {total_nomina}")
+    print(f"Total empleados: {total_nomina:.2f}")
     input("Pressione ENTER para sair...")
 
 def registrar_empleado(lista_empleados):
@@ -61,6 +61,25 @@ def registrar_empleado(lista_empleados):
     except ValueError:
         print("Error, ingrese un numero valido para el salario y los dias")
 
+def main():
+    empleados = []
+    while True:
+        print("---- Iniciar programa ----")
+        print("1. Registrar empleados")
+        print("2. Procesar nomina")
+        print("3. Salir")
+
+        opcion = input("Ingrese su opcion:\n")
+
+        if opcion == "1":
+            registrar_empleado(empleados)
+        elif opcion == "2":
+            calcular_nomina(empleados)
+        elif opcion == "3":
+            print("Salir")
+
+        else:
+            print("Opcion incorrecta")
 
 if __name__ == "__main__":
-    pass
+    main()

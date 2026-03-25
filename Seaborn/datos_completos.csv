@@ -1,0 +1,301 @@
+mes,vendedor,categoria,nombre,precio,cantidad,Total_Ingreso
+Marzo,Andrés,Tecnología,Servidor Enterprise,5000.0,1,5000.0
+Enero,Elena,Deportes,Gimnasio Completo,3500.0,1,3500.0
+Febrero,Carlos,Tecnología,Laptop,372.66,4,1490.63
+Enero,Diana,Deportes,Mat de Yoga,21.14,10,211.39
+Marzo,Diana,Hogar,Licuadora,144.94,10,1449.38
+Marzo,Carlos,Tecnología,Monitor 4K,721.14,4,2884.56
+Enero,Carlos,Oficina,Silla Ergonómica,61.29,7,429.0
+Febrero,Carlos,Deportes,Botella Térmica,80.56,1,80.56
+Febrero,Beatriz,Oficina,Silla Ergonómica,51.72,2,103.45
+Enero,Beatriz,Hogar,Lámpara LED,99.38,3,298.15
+Enero,Elena,Oficina,Agenda,48.75,4,195.0
+Febrero,Andrés,Hogar,Lámpara LED,38.7,3,116.09
+Enero,Andrés,Hogar,Aspiradora Robot,50.09,8,400.71
+Febrero,Beatriz,Oficina,Organizador,67.23,2,134.45
+Febrero,Carlos,Oficina,Silla Ergonómica,36.87,9,331.8
+Marzo,Elena,Tecnología,Laptop,396.38,5,1981.88
+Febrero,Carlos,Deportes,Mancuernas,43.15,4,172.59
+Enero,Andrés,Oficina,Escritorio,71.75,5,358.74
+Enero,Beatriz,Hogar,Aspiradora Robot,103.34,10,1033.38
+Enero,Carlos,Deportes,Botella Térmica,54.31,9,488.82
+Febrero,Andrés,Oficina,Agenda,38.9,9,350.13
+Marzo,Andrés,Tecnología,Laptop,663.6,10,6635.99
+Enero,Carlos,Oficina,Escritorio,66.35,2,132.69
+Marzo,Beatriz,Oficina,Silla Ergonómica,62.71,7,438.95
+Marzo,Andrés,Oficina,Escritorio,94.84,5,474.2
+Enero,Diana,Oficina,Escritorio,30.82,7,215.72
+Febrero,Elena,Deportes,Bicicleta,70.68,2,141.35
+Enero,Beatriz,Deportes,Mancuernas,46.46,9,418.17
+Febrero,Carlos,Hogar,Cafetera,76.5,10,764.97
+Enero,Beatriz,Hogar,Lámpara LED,149.07,5,745.33
+Enero,Carlos,Oficina,Silla Ergonómica,48.64,5,243.18
+Febrero,Beatriz,Oficina,Escritorio,51.01,6,306.03
+Marzo,Carlos,Hogar,Aspiradora Robot,92.12,8,736.92
+Marzo,Beatriz,Oficina,Organizador,53.67,9,483.06
+Enero,Beatriz,Oficina,Silla Ergonómica,83.18,5,415.89
+Enero,Beatriz,Oficina,Agenda,49.45,3,148.35
+Enero,Diana,Deportes,Bicicleta,93.92,10,939.21
+Febrero,Elena,Oficina,Agenda,45.22,4,180.87
+Febrero,Elena,Tecnología,Monitor 4K,500.38,6,3002.29
+Febrero,Beatriz,Tecnología,Mouse Gamer,117.42,10,1174.24
+Febrero,Beatriz,Deportes,Bicicleta,55.71,1,55.71
+Febrero,Elena,Oficina,Escritorio,74.97,10,749.71
+Enero,Carlos,Tecnología,Teclado Mecánico,419.0,3,1257.0
+Febrero,Carlos,Hogar,Aspiradora Robot,77.57,8,620.54
+Febrero,Carlos,Tecnología,Laptop,304.65,2,609.29
+Marzo,Elena,Deportes,Bicicleta,14.75,9,132.75
+Febrero,Andrés,Oficina,Agenda,66.5,8,532.0
+Febrero,Beatriz,Deportes,Botella Térmica,61.88,3,185.63
+Febrero,Diana,Hogar,Lámpara LED,121.26,5,606.31
+Marzo,Beatriz,Oficina,Silla Ergonómica,50.59,9,455.35
+Febrero,Beatriz,Oficina,Silla Ergonómica,96.96,8,775.65
+Enero,Andrés,Oficina,Silla Ergonómica,45.85,2,91.69
+Enero,Carlos,Oficina,Organizador,80.66,6,483.95
+Marzo,Andrés,Hogar,Lámpara LED,132.01,9,1188.09
+Febrero,Andrés,Tecnología,Mouse Gamer,329.37,5,1646.87
+Febrero,Beatriz,Oficina,Escritorio,99.8,3,299.4
+Febrero,Diana,Oficina,Organizador,31.58,3,94.74
+Enero,Carlos,Hogar,Licuadora,103.69,3,311.08
+Febrero,Beatriz,Deportes,Botella Térmica,21.89,2,43.79
+Enero,Diana,Oficina,Agenda,39.15,1,39.15
+Febrero,Carlos,Oficina,Silla Ergonómica,25.73,7,180.11
+Enero,Andrés,Tecnología,Laptop,225.79,1,225.79
+Marzo,Elena,Hogar,Cafetera,88.88,3,266.65
+Marzo,Elena,Tecnología,Mouse Gamer,438.38,6,2630.28
+Febrero,Diana,Deportes,Bicicleta,26.01,5,130.04
+Marzo,Elena,Hogar,Aspiradora Robot,92.3,1,92.3
+Enero,Diana,Tecnología,Mouse Gamer,173.32,8,1386.59
+Febrero,Carlos,Tecnología,Monitor 4K,730.51,5,3652.57
+Febrero,Beatriz,Oficina,Silla Ergonómica,70.27,5,351.37
+Febrero,Carlos,Hogar,Cafetera,128.7,5,643.49
+Marzo,Diana,Hogar,Licuadora,26.89,5,134.47
+Febrero,Andrés,Oficina,Agenda,58.67,1,58.67
+Marzo,Diana,Hogar,Lámpara LED,135.82,2,271.64
+Enero,Andrés,Hogar,Lámpara LED,49.24,3,147.71
+Enero,Andrés,Deportes,Bicicleta,82.0,10,819.99
+Enero,Carlos,Hogar,Cafetera,120.9,8,967.22
+Marzo,Diana,Deportes,Botella Térmica,14.55,4,58.21
+Marzo,Diana,Oficina,Organizador,90.05,5,450.23
+Febrero,Beatriz,Tecnología,Mouse Gamer,730.11,8,5840.88
+Marzo,Elena,Oficina,Organizador,93.25,7,652.72
+Febrero,Diana,Deportes,Botella Térmica,56.23,9,506.08
+Enero,Andrés,Oficina,Organizador,53.25,1,53.25
+Marzo,Carlos,Oficina,Escritorio,62.52,10,625.22
+Enero,Beatriz,Deportes,Mancuernas,42.11,8,336.85
+Marzo,Carlos,Hogar,Lámpara LED,120.67,4,482.67
+Marzo,Carlos,Oficina,Silla Ergonómica,42.32,6,253.91
+Marzo,Beatriz,Tecnología,Teclado Mecánico,610.16,9,5491.44
+Enero,Beatriz,Deportes,Mat de Yoga,61.1,7,427.67
+Enero,Carlos,Tecnología,Teclado Mecánico,765.71,7,5360.0
+Marzo,Andrés,Deportes,Bicicleta,23.59,1,23.59
+Febrero,Elena,Deportes,Botella Térmica,24.63,5,123.16
+Enero,Diana,Oficina,Agenda,38.33,10,383.32
+Marzo,Elena,Deportes,Bicicleta,99.86,7,699.04
+Enero,Elena,Tecnología,Laptop,267.67,7,1873.7
+Marzo,Andrés,Deportes,Botella Térmica,63.89,6,383.36
+Enero,Diana,Hogar,Lámpara LED,59.26,8,474.05
+Enero,Andrés,Deportes,Botella Térmica,70.45,8,563.6
+Marzo,Diana,Tecnología,Monitor 4K,558.68,6,3352.08
+Enero,Elena,Deportes,Botella Térmica,45.4,3,136.21
+Febrero,Andrés,Tecnología,Laptop,575.11,2,1150.22
+Febrero,Elena,Tecnología,Monitor 4K,228.7,7,1600.9
+Febrero,Carlos,Hogar,Aspiradora Robot,71.47,10,714.69
+Marzo,Andrés,Oficina,Organizador,53.78,2,107.56
+Marzo,Diana,Oficina,Silla Ergonómica,60.05,3,180.14
+Marzo,Elena,Oficina,Agenda,48.94,2,97.88
+Enero,Carlos,Tecnología,Mouse Gamer,605.98,9,5453.79
+Enero,Elena,Tecnología,Teclado Mecánico,288.24,5,1441.21
+Febrero,Elena,Hogar,Cafetera,48.3,2,96.61
+Febrero,Andrés,Deportes,Mancuernas,84.66,2,169.32
+Marzo,Carlos,Tecnología,Monitor 4K,104.52,10,1045.17
+Enero,Elena,Tecnología,Monitor 4K,628.6,5,3142.98
+Febrero,Elena,Tecnología,Monitor 4K,447.91,6,2687.45
+Marzo,Elena,Hogar,Licuadora,130.3,3,390.89
+Marzo,Andrés,Oficina,Escritorio,50.36,9,453.23
+Enero,Andrés,Hogar,Licuadora,64.56,1,64.56
+Enero,Beatriz,Oficina,Agenda,38.72,3,116.15
+Febrero,Beatriz,Deportes,Botella Térmica,82.11,10,821.15
+Febrero,Beatriz,Oficina,Agenda,73.41,2,146.82
+Enero,Diana,Tecnología,Mouse Gamer,382.29,4,1529.17
+Febrero,Elena,Deportes,Bicicleta,82.27,6,493.64
+Enero,Elena,Hogar,Licuadora,133.5,2,266.99
+Marzo,Elena,Hogar,Cafetera,90.41,4,361.64
+Febrero,Diana,Oficina,Silla Ergonómica,81.31,9,731.76
+Febrero,Elena,Deportes,Mancuernas,45.17,2,90.34
+Enero,Elena,Hogar,Lámpara LED,86.17,5,430.83
+Enero,Elena,Oficina,Organizador,21.83,2,43.67
+Marzo,Diana,Tecnología,Teclado Mecánico,237.69,8,1901.55
+Marzo,Elena,Tecnología,Monitor 4K,359.85,2,719.69
+Marzo,Elena,Tecnología,Teclado Mecánico,106.55,4,426.22
+Febrero,Carlos,Hogar,Licuadora,128.81,2,257.61
+Febrero,Elena,Deportes,Bicicleta,27.62,1,27.62
+Febrero,Elena,Oficina,Escritorio,63.41,2,126.81
+Marzo,Andrés,Oficina,Escritorio,70.17,1,70.17
+Enero,Diana,Deportes,Botella Térmica,97.37,2,194.75
+Febrero,Diana,Deportes,Mat de Yoga,26.74,1,26.74
+Febrero,Diana,Deportes,Mancuernas,90.72,7,635.05
+Marzo,Beatriz,Hogar,Lámpara LED,27.74,10,277.36
+Enero,Andrés,Oficina,Agenda,79.06,7,553.4
+Enero,Elena,Tecnología,Laptop,554.75,3,1664.24
+Febrero,Beatriz,Oficina,Escritorio,78.11,8,624.86
+Marzo,Beatriz,Deportes,Mancuernas,32.74,5,163.68
+Enero,Andrés,Tecnología,Mouse Gamer,381.08,6,2286.51
+Enero,Beatriz,Tecnología,Teclado Mecánico,374.86,10,3748.58
+Enero,Elena,Hogar,Licuadora,57.49,8,459.88
+Enero,Carlos,Tecnología,Laptop,702.36,2,1404.72
+Enero,Andrés,Hogar,Lámpara LED,28.88,8,231.03
+Febrero,Carlos,Deportes,Mat de Yoga,76.25,1,76.25
+Febrero,Andrés,Oficina,Agenda,23.36,1,23.36
+Enero,Elena,Tecnología,Teclado Mecánico,668.45,9,6016.01
+Marzo,Beatriz,Tecnología,Teclado Mecánico,408.88,1,408.88
+Febrero,Elena,Oficina,Escritorio,22.21,1,22.21
+Enero,Andrés,Hogar,Aspiradora Robot,79.43,3,238.29
+Enero,Elena,Hogar,Cafetera,135.64,10,1356.4
+Marzo,Andrés,Deportes,Mancuernas,72.48,6,434.87
+Marzo,Beatriz,Tecnología,Laptop,64.31,1,64.31
+Marzo,Diana,Hogar,Aspiradora Robot,90.01,4,360.03
+Febrero,Diana,Tecnología,Mouse Gamer,99.76,4,399.06
+Febrero,Diana,Tecnología,Teclado Mecánico,333.92,3,1001.77
+Enero,Diana,Tecnología,Laptop,507.66,8,4061.28
+Marzo,Diana,Deportes,Botella Térmica,71.73,7,502.11
+Febrero,Carlos,Hogar,Aspiradora Robot,95.55,10,955.49
+Febrero,Beatriz,Deportes,Botella Térmica,88.64,4,354.55
+Enero,Diana,Oficina,Escritorio,29.53,4,118.11
+Enero,Diana,Oficina,Agenda,19.34,6,116.02
+Enero,Andrés,Oficina,Agenda,42.44,2,84.88
+Enero,Andrés,Oficina,Organizador,69.48,7,486.34
+Marzo,Carlos,Oficina,Escritorio,10.55,6,63.32
+Febrero,Andrés,Tecnología,Teclado Mecánico,544.6,1,544.6
+Enero,Beatriz,Tecnología,Laptop,383.2,2,766.39
+Febrero,Elena,Deportes,Bicicleta,41.09,9,369.85
+Febrero,Elena,Oficina,Agenda,93.08,3,279.24
+Marzo,Beatriz,Hogar,Aspiradora Robot,69.49,3,208.46
+Marzo,Elena,Tecnología,Laptop,626.38,10,6263.8
+Febrero,Carlos,Oficina,Escritorio,13.19,4,52.77
+Enero,Andrés,Oficina,Silla Ergonómica,49.1,9,441.89
+Febrero,Elena,Hogar,Licuadora,56.28,7,393.98
+Febrero,Andrés,Hogar,Aspiradora Robot,88.67,6,532.03
+Enero,Diana,Hogar,Lámpara LED,122.95,7,860.66
+Marzo,Elena,Hogar,Aspiradora Robot,82.16,5,410.81
+Enero,Andrés,Oficina,Organizador,66.71,4,266.83
+Enero,Elena,Tecnología,Teclado Mecánico,133.56,5,667.8
+Marzo,Diana,Oficina,Agenda,77.1,3,231.31
+Enero,Beatriz,Deportes,Bicicleta,76.52,7,535.65
+Enero,Carlos,Tecnología,Mouse Gamer,601.85,3,1805.54
+Febrero,Andrés,Tecnología,Laptop,619.82,6,3718.89
+Enero,Elena,Hogar,Licuadora,131.57,4,526.27
+Marzo,Diana,Deportes,Mat de Yoga,47.32,4,189.29
+Marzo,Diana,Hogar,Lámpara LED,36.62,7,256.34
+Enero,Diana,Oficina,Silla Ergonómica,37.68,1,37.68
+Enero,Andrés,Oficina,Agenda,15.73,1,15.73
+Enero,Beatriz,Oficina,Organizador,44.49,3,133.47
+Febrero,Andrés,Tecnología,Mouse Gamer,299.21,1,299.21
+Marzo,Diana,Deportes,Bicicleta,29.9,5,149.48
+Febrero,Elena,Oficina,Agenda,40.04,5,200.22
+Febrero,Elena,Tecnología,Mouse Gamer,69.01,9,621.11
+Febrero,Elena,Deportes,Botella Térmica,74.17,10,741.68
+Marzo,Elena,Hogar,Lámpara LED,108.82,3,326.45
+Enero,Andrés,Tecnología,Laptop,679.79,9,6118.13
+Marzo,Elena,Oficina,Agenda,86.3,3,258.9
+Enero,Carlos,Tecnología,Mouse Gamer,679.22,10,6792.18
+Febrero,Beatriz,Tecnología,Monitor 4K,72.87,8,582.97
+Marzo,Diana,Hogar,Licuadora,90.59,1,90.59
+Marzo,Andrés,Deportes,Bicicleta,82.24,4,328.95
+Febrero,Diana,Tecnología,Monitor 4K,744.9,1,744.9
+Marzo,Beatriz,Hogar,Cafetera,37.46,2,74.92
+Febrero,Beatriz,Oficina,Agenda,94.09,2,188.17
+Marzo,Carlos,Hogar,Licuadora,65.06,6,390.37
+Marzo,Elena,Oficina,Silla Ergonómica,68.22,6,409.31
+Febrero,Carlos,Hogar,Cafetera,113.4,9,1020.6
+Enero,Elena,Tecnología,Laptop,779.46,2,1558.92
+Marzo,Andrés,Tecnología,Mouse Gamer,590.82,10,5908.17
+Enero,Andrés,Tecnología,Monitor 4K,714.45,6,4286.7
+Febrero,Elena,Hogar,Aspiradora Robot,40.23,9,362.07
+Enero,Carlos,Tecnología,Monitor 4K,60.6,5,302.98
+Marzo,Elena,Deportes,Botella Térmica,61.74,8,493.9
+Febrero,Andrés,Hogar,Licuadora,117.52,10,1175.24
+Febrero,Beatriz,Deportes,Mat de Yoga,37.18,2,74.37
+Febrero,Beatriz,Deportes,Mat de Yoga,67.77,8,542.17
+Marzo,Beatriz,Deportes,Mancuernas,79.64,2,159.28
+Marzo,Diana,Tecnología,Teclado Mecánico,497.02,1,497.02
+Febrero,Diana,Oficina,Organizador,95.93,9,863.34
+Enero,Elena,Hogar,Licuadora,149.22,2,298.43
+Enero,Andrés,Deportes,Bicicleta,89.36,10,893.57
+Enero,Diana,Oficina,Escritorio,45.24,3,135.72
+Febrero,Carlos,Oficina,Agenda,48.57,4,194.29
+Marzo,Andrés,Oficina,Agenda,46.8,2,93.61
+Enero,Diana,Oficina,Escritorio,64.8,8,518.43
+Marzo,Diana,Hogar,Aspiradora Robot,81.61,1,81.61
+Febrero,Diana,Tecnología,Laptop,507.37,2,1014.74
+Febrero,Beatriz,Deportes,Bicicleta,38.1,6,228.62
+Marzo,Carlos,Tecnología,Mouse Gamer,774.77,3,2324.31
+Enero,Beatriz,Deportes,Botella Térmica,10.95,3,32.84
+Marzo,Beatriz,Deportes,Mat de Yoga,23.23,1,23.23
+Enero,Diana,Tecnología,Mouse Gamer,63.61,8,508.86
+Febrero,Beatriz,Oficina,Organizador,80.95,8,647.58
+Enero,Diana,Deportes,Bicicleta,44.34,10,443.41
+Marzo,Beatriz,Oficina,Organizador,67.67,8,541.36
+Marzo,Carlos,Oficina,Organizador,94.45,8,755.57
+Enero,Andrés,Deportes,Botella Térmica,29.81,7,208.66
+Marzo,Diana,Hogar,Licuadora,79.95,9,719.56
+Marzo,Diana,Oficina,Organizador,36.39,10,363.9
+Enero,Andrés,Deportes,Mancuernas,23.52,2,47.04
+Marzo,Elena,Hogar,Aspiradora Robot,62.67,8,501.39
+Enero,Andrés,Hogar,Cafetera,50.38,10,503.78
+Marzo,Carlos,Deportes,Bicicleta,75.78,6,454.67
+Febrero,Diana,Oficina,Organizador,84.55,1,84.55
+Febrero,Beatriz,Tecnología,Monitor 4K,651.43,1,651.43
+Febrero,Beatriz,Oficina,Organizador,35.42,5,177.11
+Marzo,Andrés,Hogar,Aspiradora Robot,122.19,6,733.12
+Enero,Andrés,Hogar,Licuadora,111.27,10,1112.75
+Febrero,Carlos,Tecnología,Teclado Mecánico,271.53,3,814.58
+Enero,Carlos,Deportes,Bicicleta,19.02,1,19.02
+Enero,Andrés,Oficina,Silla Ergonómica,79.11,6,474.63
+Enero,Elena,Oficina,Agenda,25.59,10,255.92
+Febrero,Diana,Tecnología,Teclado Mecánico,332.94,7,2330.55
+Enero,Andrés,Hogar,Aspiradora Robot,92.0,4,368.0
+Marzo,Diana,Deportes,Mancuernas,40.6,3,121.81
+Enero,Beatriz,Deportes,Mancuernas,67.91,6,407.48
+Enero,Diana,Hogar,Licuadora,29.91,8,239.31
+Enero,Diana,Deportes,Bicicleta,35.34,3,106.02
+Marzo,Beatriz,Oficina,Silla Ergonómica,96.48,7,675.38
+Marzo,Andrés,Hogar,Lámpara LED,101.52,8,812.18
+Enero,Diana,Tecnología,Mouse Gamer,659.49,3,1978.46
+Enero,Diana,Hogar,Cafetera,142.74,2,285.48
+Marzo,Diana,Oficina,Agenda,41.39,7,289.73
+Marzo,Diana,Deportes,Mat de Yoga,58.54,3,175.61
+Febrero,Diana,Deportes,Mat de Yoga,97.76,4,391.03
+Febrero,Carlos,Hogar,Cafetera,29.66,7,207.64
+Febrero,Andrés,Deportes,Bicicleta,44.2,10,442.03
+Enero,Carlos,Hogar,Lámpara LED,120.47,8,963.72
+Enero,Carlos,Deportes,Bicicleta,47.44,8,379.54
+Marzo,Diana,Tecnología,Teclado Mecánico,86.35,3,259.06
+Enero,Elena,Oficina,Organizador,68.81,9,619.33
+Enero,Beatriz,Hogar,Lámpara LED,52.0,8,416.0
+Febrero,Diana,Hogar,Cafetera,20.98,7,146.87
+Enero,Beatriz,Hogar,Lámpara LED,118.27,6,709.64
+Febrero,Andrés,Tecnología,Mouse Gamer,632.89,9,5696.04
+Enero,Carlos,Hogar,Lámpara LED,106.77,7,747.38
+Enero,Elena,Hogar,Cafetera,52.14,5,260.69
+Enero,Diana,Deportes,Botella Térmica,13.2,9,118.78
+Marzo,Carlos,Deportes,Mat de Yoga,15.0,6,90.02
+Marzo,Andrés,Oficina,Organizador,86.39,6,518.32
+Enero,Elena,Deportes,Bicicleta,58.71,8,469.65
+Febrero,Andrés,Oficina,Silla Ergonómica,90.63,7,634.44
+Enero,Diana,Hogar,Aspiradora Robot,36.39,9,327.49
+Enero,Beatriz,Hogar,Licuadora,48.0,9,431.97
+Febrero,Beatriz,Hogar,Aspiradora Robot,139.37,4,557.5
+Enero,Diana,Oficina,Agenda,43.17,8,345.37
+Marzo,Carlos,Deportes,Mancuernas,28.52,9,256.7
+Enero,Andrés,Deportes,Bicicleta,86.82,5,434.08
+Enero,Beatriz,Tecnología,Monitor 4K,306.13,1,306.13
+Febrero,Carlos,Tecnología,Teclado Mecánico,444.6,2,889.2
+Marzo,Elena,Deportes,Mat de Yoga,36.05,6,216.28
+Enero,Andrés,Tecnología,Monitor 4K,587.2,1,587.2
+Febrero,Diana,Oficina,Organizador,19.77,5,98.86
+Marzo,Elena,Oficina,Organizador,49.29,2,98.57
+Marzo,Elena,Hogar,Aspiradora Robot,100.78,5,503.9
+Enero,Diana,Deportes,Mat de Yoga,57.21,10,572.1
+Marzo,Beatriz,Hogar,Lámpara LED,64.32,3,192.95
+Enero,Carlos,Tecnología,Laptop,410.99,7,2876.94
